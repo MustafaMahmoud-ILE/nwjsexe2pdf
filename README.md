@@ -45,7 +45,7 @@ This Python application converts executable e-book files into PDF documents. Des
 The app estimates the printing cost based on the number of pages. A base price is added for each page, and additional costs are scaled down with each subsequent page. The final price is rounded to the nearest 50 EGP.
 
 ## Screenshots
-_Add screenshots of the app here._
+![Screenshot of the App](Screenshot.PNG)
 
 ## Contributing
 Feel free to fork this repository, submit issues, or make pull requests. Contributions are welcome!
